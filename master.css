@@ -11,3 +11,7 @@ hr {
 #s {
     background: #9492929e
 }
+
+body {
+    background: linear-gradient(to bottom right, #966f82, #1dc4bd);
+}
